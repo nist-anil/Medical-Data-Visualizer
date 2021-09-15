@@ -43,6 +43,7 @@ weight is less than the 2.5th percentile
 weight is more than the 97.5th percentile
 
 3. Create a correlation matrix using the dataset. Plot the correlation matrix using seaborn's heatmap(). Mask the upper triangle. The chart should look like examples/Figure_2.png.
+![image](https://user-images.githubusercontent.com/85816129/133481053-68cca9cc-5f3f-4566-a790-3f9cce254fc0.png)
 
 Any time a variable is set to None, make sure to set it to the correct code.
 
